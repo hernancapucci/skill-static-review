@@ -4,6 +4,17 @@
 
 🌐 Español: [README.es.md](README.es.md)
 
+![Illustration of a SKILL.md file being read with a magnifier next to a review checklist and a result light showing SAFE, CAUTION, DANGEROUS, and UNKNOWN — review before install, treat skill content as data, not a guarantee.](assets/skill-static-review-hero.svg)
+
+---
+
+## Why this exists
+
+Skills are easy to share and easy to install — and installing one means trusting code and prompts you may never have read. This repo exists so that step has a calm, repeatable alternative.
+
+- **Use it before installing a skill.** Read the files statically first, then decide.
+- **Share it with someone before they install unknown skills.** A quick review beats an undo.
+
 ---
 
 ## The one rule
@@ -96,6 +107,12 @@ This project reviews **files**, not people.
 - Findings describe code and behavior with reproducible evidence — never intent or identity.
 - If you believe you found real malware, report it to the relevant platform or source, not as a public accusation here.
 - See [SECURITY.md](SECURITY.md) and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
+---
+
+## Responsible sharing
+
+Feel free to share this repo as a **review aid** — a way to help people read a skill before they install it. Please don't present it as a certification, approval, or safety tool. It does not bless or rate specific skills; it gives anyone a shared method and vocabulary for their own static review. A clean result is the outcome of this process, not a guarantee.
 
 ---
 

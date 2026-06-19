@@ -4,6 +4,17 @@
 
 🌐 English: [README.md](README.md)
 
+![Ilustración de un archivo SKILL.md leído con una lupa junto a un checklist de revisión y un semáforo de resultado con SAFE, CAUTION, DANGEROUS y UNKNOWN — revisá antes de instalar, tratá el contenido de la skill como datos, no es una garantía.](assets/skill-static-review-hero.svg)
+
+---
+
+## Por qué existe
+
+Las skills son fáciles de compartir y fáciles de instalar — e instalar una significa confiar en código y prompts que tal vez nunca leíste. Este repo existe para que ese paso tenga una alternativa tranquila y repetible.
+
+- **Usalo antes de instalar una skill.** Primero leé los archivos de forma estática, después decidí.
+- **Compartilo con alguien antes de que instale skills desconocidas.** Una revisión rápida es mejor que un deshacer.
+
 ---
 
 ## La única regla
@@ -96,6 +107,12 @@ Este proyecto revisa **archivos**, no personas.
 - Los hallazgos describen código y conducta con evidencia reproducible, nunca intención ni identidad.
 - Si creés que encontraste malware real, reportalo a la plataforma o al origen correspondiente, no como una acusación pública acá.
 - Mirá [SECURITY.md](SECURITY.md) y [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
+---
+
+## Difusión responsable
+
+Compartí este repo como **ayuda de revisión** — una forma de ayudar a la gente a leer una skill antes de instalarla. Por favor no lo presentes como una herramienta de certificación, aprobación o seguridad. No bendice ni puntúa skills específicas; le da a cualquiera un método y un vocabulario compartidos para su propia revisión estática. Un resultado limpio es la conclusión de este proceso, no una garantía.
 
 ---
 
